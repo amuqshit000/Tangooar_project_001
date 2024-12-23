@@ -1,0 +1,21 @@
+#search_bar{
+    width: 1320px;
+}
+
+.caro{
+    height: 460px;
+}
+
+/* responsive */
+/* @media (max-width: 1080px){
+    #search_bar{
+        width: 380px;
+    }
+}
+
+@media (max-width: 600px){
+    #search_bar{
+        width: 200px;
+    }
+}
+ */
